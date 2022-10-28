@@ -1,0 +1,15 @@
+Ganesh-142
+
+
+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 
+
+
+
+
+
+
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
